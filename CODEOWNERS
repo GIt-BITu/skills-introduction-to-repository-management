@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @GIt-BITu
+/src/backend/database.py      @GIt-BITu
+/src/backend/routers/auth.py  @GIt-BITu
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @GIt-BITu
